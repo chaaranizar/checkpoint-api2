@@ -1,0 +1,13 @@
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 2%;
+    
+}
+.profile .btn2 {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
